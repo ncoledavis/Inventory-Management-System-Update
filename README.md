@@ -111,14 +111,5 @@ The exact appearance during the process varies with the in‑place overwrites, b
 ```python
 arr = [4, 0, 1, 3, 0, 2, 5, 0]
 duplicate_zeros_inplace(arr)
-print(arr)  # Example final result within fixed length
-```
+print(arr)  
 
----
-
-## Tips
-- If you need to keep the **original ordering** of non‑zero elements as much as possible while still duplicating zeros, this in‑place backward strategy is the standard way to do it with constant extra space.
-
----
-
-**Author’s note:** This document was generated to accompany the provided function and includes an illustrative trace image for clarity.
