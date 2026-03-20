@@ -1,7 +1,7 @@
 # Duplicate Zeros In‑Place — Workflow & Explanation
 
 This README explains and documents the algorithm implemented in:
-
+YoutTube Link: https://youtu.be/XxyvuZ9NSR0
 ```python
 def duplicate_zeros_inplace(inventory):
     n = len(inventory)
